@@ -22,8 +22,8 @@ namespace Homework2
         {
 
             //initialize first and last name variables
-            String first_name = "mark";
-            String last_name = "aloka";
+            String first_name = "dakota";
+            String last_name = "durst";
             // (check to see in variable assigned correctly) System.out.println(first_name);
             //System.out.println(last_name);
 
