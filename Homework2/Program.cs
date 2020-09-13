@@ -1,4 +1,18 @@
-﻿using System;
+﻿/// Chapter No. 1 Exercise No. 1
+/// File Name: Homework 2 part 1
+/// @author: Dakota Durst
+/// Date: September 12, 2020
+///
+/// Problem Statement: Use string variables set to your first and last name and convert the name into pig latin.
+///
+///
+/// Overall Plan:
+/// 1) initialize variables needed (first, last, pig first, pig last)
+/// 2) check to make sure variables are correctly assigned the letters needed
+/// 3) convert the string name to pig latin and upper case first letter
+/// 4) Print result on screen
+
+using System;
 
 namespace Homework2
 {
